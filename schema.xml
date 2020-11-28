@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database name="hurah" custom="NovumHome" crudRoot="Custom/NovumHome" crudNamespace="Crud\Custom\NovumHome" defaultIdMethod="native" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://novumgit.gitlab.io/innovation-app-schema-xsd/v1/schema-plus-crud.xsd" >
+
+
+    <table name="command_queue" phpName="CommandQueue">
+        <column name="id" form="INTEGER" title="Id" icon="lock"  type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+        <column name="command" form="STRING" title="Command" icon="lock"  type="INTEGER" required="true" />
+    </table>
+
+    <external-schema filename="../../schema/core-schema-extra.xml"/>
+    <external-schema filename="../../schema/core-schema.xml"/>
+</database>

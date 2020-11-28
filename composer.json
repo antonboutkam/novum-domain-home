@@ -1,0 +1,27 @@
+{
+    "name": "novum/domain-home",
+    "description": "This is the default homepage of the Novum innovatie app",
+    "type": "novum-domain",
+    "require": {
+        "novum/innovation-app-core": "*",
+        "hurah/hurah-installer": "*",
+        "PHP": ">=7.4"
+    },
+    "license": "MIT",
+    "prefer-stable": false,
+    "homepage": "https://docs.demo.novum.nu/",
+    "minimum-stability": "dev",
+    "keywords": [
+        "fake api, belastingdienst"
+    ],
+    "authors": [
+        {
+            "name": "Anton Boutkam",
+            "email": "anton@novum.nu"
+        }
+    ],
+    "extra": {
+        "system_id": "novum.home"
+    },
+    "autoload": []
+}
