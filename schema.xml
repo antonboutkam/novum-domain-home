@@ -7,6 +7,7 @@
         <column name="command" form="STRING" title="Command" icon="lock"  type="INTEGER" required="true" />
     </table>
 
-    <external-schema filename="../../schema/core-schema-extra.xml"/>
-    <external-schema filename="../../schema/core-schema.xml"/>
+    <external-schema filename="../../schema/schema.xml"/>
+    <external-schema filename="../../schema/core-schema-extra.xml" />
+    <external-schema filename="../../schema/novum-schema.xml" />
 </database>
