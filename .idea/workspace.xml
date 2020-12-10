@@ -20,15 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64d66d9-89e8-4413-93e9-619c34585d91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deamon/certbot-inotifywait.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../certbot-helper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../certbot-helper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deamon/certbot-inotifywait.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deamon/certbot-inotifywait.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -62,6 +62,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="264" width="432" height="484" key="FileChooserDialogImpl" timestamp="1607556417835">
